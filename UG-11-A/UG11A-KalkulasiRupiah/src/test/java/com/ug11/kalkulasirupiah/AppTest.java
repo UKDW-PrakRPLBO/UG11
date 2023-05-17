@@ -41,7 +41,7 @@ public class AppTest {
 
     @Test
     public void testApp2() {
-        String input = "Harga gula sudah Rp19.000,00 per kg. Bahkan ada juga yang mencapai Rp20.000,00 ribu per kg di beberapa pasar. Kalau di warung kelontong bisa sampai Rp21.000,00 per kg.” ujar Abdullah. "; // Example input
+        String input = "Harga gula sudah Rp19.000,00 per kg. Bahkan ada juga yang mencapai Rp20.000,00 ribu per kg di beberapa pasar. Kalau di warung kelontong bisa sampai Rp21.000,00 per kg.” ujar Abdullah."; // Example input
         String expectedOutput = "Rincian biaya: Rp19.000,00 + Rp20.000,00 + Rp21.000,00" + System.lineSeparator()
                 + "Total: 60000" + System.lineSeparator();
 
