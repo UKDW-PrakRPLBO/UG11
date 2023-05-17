@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fbaa66f-d669-4921-a7aa-1ee7a055ea98" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/NIM-UG11-InstaPost.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/src/main/java/com/ug11/instapost/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/src/main/java/com/ug11/instapost/EmailException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/src/main/java/com/ug11/instapost/InstaPost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/src/test/java/com/ug11/instapost/EmailExceptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/src/test/java/com/ug11/instapost/InstaPostTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/target/classes/com/ug11/instapost/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/target/classes/com/ug11/instapost/EmailException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/target/classes/com/ug11/instapost/InstaPost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/target/test-classes/com/ug11/instapost/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/target/test-classes/com/ug11/instapost/EmailExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-InstaPost/target/test-classes/com/ug11/instapost/InstaPostTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-KalkulasiRupiah/NIM-UG11-KalkulasiRupiah.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-KalkulasiRupiah/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-KalkulasiRupiah/src/main/java/com/ug11/kalkulasirupiah/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-KalkulasiRupiah/src/test/java/com/ug11/kalkulasirupiah/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-KalkulasiRupiah/target/classes/classpath.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-KalkulasiRupiah/target/classes/com/ug11/kalkulasirupiah/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-KalkulasiRupiah/target/test-classes/classpath.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NIM-UG11-KalkulasiRupiah/target/test-classes/com/ug11/kalkulasirupiah/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PuzsGgTfvLmAzxgPE4TZ0E7A2S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fbaa66f-d669-4921-a7aa-1ee7a055ea98" name="Changes" comment="" />
+      <created>1684321960749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684321960749</updated>
+    </task>
+    <servers />
+  </component>
+</project>
